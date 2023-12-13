@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0872299d75633451b8fd82026ec2c937
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zepelinPrefab: {fileID: 100094, guid: 6f7604981ce4c064cbe5284c437c5699, type: 3}
+  - puntoSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
